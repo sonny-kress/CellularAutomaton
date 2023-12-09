@@ -11,6 +11,7 @@
 		C04ABF192B246CBD00890C04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04ABF182B246CBD00890C04 /* ContentView.swift */; };
 		C04ABF1B2B246CBF00890C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C04ABF1A2B246CBF00890C04 /* Assets.xcassets */; };
 		C04ABF1E2B246CBF00890C04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C04ABF1D2B246CBF00890C04 /* Preview Assets.xcassets */; };
+		C04ABF262B246EF400890C04 /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04ABF252B246EF400890C04 /* Algorithm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C04ABF1A2B246CBF00890C04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C04ABF1D2B246CBF00890C04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C04ABF1F2B246CBF00890C04 /* CellularAutomaton.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CellularAutomaton.entitlements; sourceTree = "<group>"; };
+		C04ABF252B246EF400890C04 /* Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C04ABF162B246CBD00890C04 /* CellularAutomatonApp.swift */,
 				C04ABF182B246CBD00890C04 /* ContentView.swift */,
+				C04ABF252B246EF400890C04 /* Algorithm.swift */,
 				C04ABF1A2B246CBF00890C04 /* Assets.xcassets */,
 				C04ABF1F2B246CBF00890C04 /* CellularAutomaton.entitlements */,
 				C04ABF1C2B246CBF00890C04 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C04ABF192B246CBD00890C04 /* ContentView.swift in Sources */,
+				C04ABF262B246EF400890C04 /* Algorithm.swift in Sources */,
 				C04ABF172B246CBD00890C04 /* CellularAutomatonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
